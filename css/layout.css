@@ -1,0 +1,162 @@
+[data-page-type="pages"] [data-uri] > section {
+  margin-top: var(--pages-section);
+  margin-bottom: var(--pages-section);
+}
+
+[data-page-type="pages"] [data-uri] > section:first-of-type {
+  margin-top: 0;
+}
+
+[data-page-type="pages"] [data-uri] > section.intro-home {
+  margin-bottom: 0;
+}
+
+[data-page-type="pages"] [data-uri] > section.intro-home + .overview-home {
+  margin-top: 0;
+}
+
+[data-page-type="pages"] [data-uri] > section.intro-thinking {
+  margin-bottom: 0;
+}
+
+[data-page-type="pages"]
+  [data-uri]
+  > section.intro-thinking
+  + .player-soundcloud {
+  margin-top: 0;
+}
+
+[data-page-type="pages"] section > .meta-bar + * {
+  margin-top: var(--pages-meta-bar);
+}
+
+[data-page-type="caseStudies"] [data-uri] > section {
+  margin-top: var(--caseStudies-section);
+  margin-bottom: var(--caseStudies-section);
+}
+
+[data-page-type="caseStudies"] [data-uri] > section:first-of-type {
+  margin-top: 0;
+}
+
+[data-page-type="caseStudies"] [data-uri] > section.intro-home {
+  margin-bottom: 0;
+}
+
+[data-page-type="caseStudies"]
+  [data-uri]
+  > section.intro-home
+  + .overview-home {
+  margin-top: 0;
+}
+
+[data-page-type="caseStudies"] [data-uri] > section.intro-thinking {
+  margin-bottom: 0;
+}
+
+[data-page-type="caseStudies"]
+  [data-uri]
+  > section.intro-thinking
+  + .player-soundcloud {
+  margin-top: 0;
+}
+
+[data-page-type="caseStudies"] section > .meta-bar + * {
+  margin-top: var(--caseStudies-meta-bar);
+}
+
+[data-page-type="services"] [data-uri] > section {
+  margin-top: var(--services-section);
+  margin-bottom: var(--services-section);
+}
+
+[data-page-type="services"] [data-uri] > section:first-of-type {
+  margin-top: 0;
+}
+
+[data-page-type="services"] [data-uri] > section.intro-home {
+  margin-bottom: 0;
+}
+
+[data-page-type="services"] [data-uri] > section.intro-home + .overview-home {
+  margin-top: 0;
+}
+
+[data-page-type="services"] [data-uri] > section.intro-thinking {
+  margin-bottom: 0;
+}
+
+[data-page-type="services"]
+  [data-uri]
+  > section.intro-thinking
+  + .player-soundcloud {
+  margin-top: 0;
+}
+
+[data-page-type="services"] section > .meta-bar + * {
+  margin-top: var(--services-meta-bar);
+}
+
+[data-page-type="blog"] [data-uri] > section {
+  margin-top: var(--blog-section);
+  margin-bottom: var(--blog-section);
+}
+
+[data-page-type="blog"] [data-uri] > section:first-of-type {
+  margin-top: 0;
+}
+
+[data-page-type="blog"] [data-uri] > section.intro-home {
+  margin-bottom: 0;
+}
+
+[data-page-type="blog"] [data-uri] > section.intro-home + .overview-home {
+  margin-top: 0;
+}
+
+[data-page-type="blog"] [data-uri] > section.intro-thinking {
+  margin-bottom: 0;
+}
+
+[data-page-type="blog"]
+  [data-uri]
+  > section.intro-thinking
+  + .player-soundcloud {
+  margin-top: 0;
+}
+
+[data-page-type="blog"] section > .meta-bar + * {
+  margin-top: var(--blog-meta-bar);
+}
+
+[data-page-type="thinking"] [data-uri] > section {
+  margin-top: var(--thinking-section);
+  margin-bottom: var(--thinking-section);
+}
+
+[data-page-type="thinking"] [data-uri] > section:first-of-type {
+  margin-top: 0;
+}
+
+[data-page-type="thinking"] [data-uri] > section.intro-home {
+  margin-bottom: 0;
+}
+
+[data-page-type="thinking"] [data-uri] > section.intro-home + .overview-home {
+  margin-top: 0;
+}
+
+[data-page-type="thinking"] [data-uri] > section.intro-thinking {
+  margin-bottom: 0;
+}
+
+[data-page-type="thinking"]
+  [data-uri]
+  > section.intro-thinking
+  + .player-soundcloud {
+  margin-top: 0;
+}
+
+[data-page-type="thinking"] section > .meta-bar + * {
+  margin-top: var(--thinking-meta-bar);
+}
